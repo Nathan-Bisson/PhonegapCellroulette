@@ -1,0 +1,25 @@
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes.dex : \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\ca\edumedia\m\biss0180\BuildConfig.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\ca\edumedia\m\biss0180\HelloCordova.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\ca\edumedia\m\biss0180\R$attr.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\ca\edumedia\m\biss0180\R$drawable.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\ca\edumedia\m\biss0180\R$string.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\ca\edumedia\m\biss0180\R$xml.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\ca\edumedia\m\biss0180\R.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\io\cordova\hellocordova\HelloCordova.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\contacts\ContactAccessor$WhereOptions.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\contacts\ContactAccessor.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\contacts\ContactAccessorSdk5.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\contacts\ContactManager$1.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\contacts\ContactManager$2.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\contacts\ContactManager$3.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\contacts\ContactManager.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\devicemotion\AccelListener$1.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\devicemotion\AccelListener.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\geolocation\CordovaLocationListener$LocationTimeoutTask.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\geolocation\CordovaLocationListener.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\geolocation\GeoBroker.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\geolocation\GPSListener.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\geolocation\NetworkListener.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\classes\org\apache\cordova\splashscreen\SplashScreen.class \
+C:\wamp\www\mad9022\cellroulette\platforms\android\bin\dexedLibs\classes-09b4e3e8becbd3a6c175298f1c74d135.jar \

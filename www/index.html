@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+<meta name="handheldfriendly" content="true" />
+<meta name="mobileoptimized" content="240" />
+<meta name="viewport" content="width=device-width,initial-scale=1,target-densitydpi=device-dpi" />
+<meta name="viewport" content="width=device-width, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=3">
+<meta charset="utf-8">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script src="cordova.js"></script>
+<script src="js/shake.js"></script>
+<title>Cell Roulette</title>
+</head>
+
+<body>
+<nav class="tabs">
+		<ul>
+			<li class="tab">
+    			<a href="#cell" data-role="link" id="callTab" class="activetab"><img src="img/iphone.svg"/></a>
+    		</li>
+    		<li class="tab">
+    			<a href="#map" data-role="link" id="mapTab" class><img src="img/compass.svg"/></a>
+    		</li>
+           <li class="tab">
+    			<a href="#past" data-role="link" id="pastTab" class><img src="img/book.svg"/></a>
+    		</li> 
+		</ul>
+	</nav>
+
+	<section data-role="page" id="cell" class="active">
+    <h1 align="center">Shake to Call a Random Contact!</h1>
+    </section>
+   
+    <section data-role="page" id="map">
+    <h1 align="center">LOCATION!</h1>
+    <h3 align="center">Select a difficulty. You are the green marker at the center of the map. Your goal is to make it to the randomly generated red marker.</h3>
+    <div id="googleMap" style="width:700px; height:500px;">
+    </div>
+    <div id="buttonSelect">
+    	<form id="zoomSelect">
+        	<input type="button" name="zoom16" id="zoom16" value="Easy"/>
+            <input type="button" name="zoom15" id="zoom15" value="Medium"/>
+            <input type="button" name="zoom14" id="zoom14" value="Hard"/>
+        </form>    
+    </div>
+    </section>
+    
+    <section data-role="page" id="past">
+    <h1 align="center">HISTORY!</h1>
+    <div id="locationLogDiv">
+    	<ul id="storageList">
+        </ul>
+    </div>
+    <div id="callLogDiv">
+    	<ul id="callList">
+        </ul>
+    </div>
+    </section>
+
+<script src="js/script.js"></script> 
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFJowjzBQfQPNlUB1sneWt2IsX1BSIv88&sensor=true"></script>
+</body>
+</html>
